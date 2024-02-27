@@ -1,0 +1,47 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-O3",
+      "-I./inc",
+      "-c",
+      "-o",
+      "src/errExit.o",
+      "src/errExit.c"
+    ],
+    "directory": "/home/sam/Progetto2023-2024_Anna_Corbellari",
+    "file": "/home/sam/Progetto2023-2024_Anna_Corbellari/src/errExit.c",
+    "output": "/home/sam/Progetto2023-2024_Anna_Corbellari/src/errExit.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-O3",
+      "-I./inc",
+      "-c",
+      "-o",
+      "src/master.o",
+      "src/master.c"
+    ],
+    "directory": "/home/sam/Progetto2023-2024_Anna_Corbellari",
+    "file": "/home/sam/Progetto2023-2024_Anna_Corbellari/src/master.c",
+    "output": "/home/sam/Progetto2023-2024_Anna_Corbellari/src/master.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-O3",
+      "-I./inc",
+      "-c",
+      "-o",
+      "src/worker.o",
+      "src/worker.c"
+    ],
+    "directory": "/home/sam/Progetto2023-2024_Anna_Corbellari",
+    "file": "/home/sam/Progetto2023-2024_Anna_Corbellari/src/worker.c",
+    "output": "/home/sam/Progetto2023-2024_Anna_Corbellari/src/worker.o"
+  }
+]
